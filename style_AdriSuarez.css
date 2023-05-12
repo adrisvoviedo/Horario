@@ -1,0 +1,72 @@
+*{
+  box-sizing: border-box;
+  
+}
+body{  
+  background-image: url(https://img.freepik.com/foto-gratis/fondo-madera-madera-textura-patron-wallpaper-concepto_53876-14103.jpg?w=1800&t=st=1668178537~exp=1668179137~hmac=5659bf67f130fadebdeafbbda914bf14e4b3cb6de7f8f177f4d28f95ff6329d1);
+  background-attachment: fixed;
+  margin: auto;
+  width: auto;
+  padding: 150px;
+  text-align: center;
+  font-family: 'helvetica neue', helvetica, arial, sans-serif;
+ 
+}
+h1{
+  font-size: 54px;
+  color: rgb(14, 84, 165);
+}
+table {
+  
+  width: auto;
+  height: auto;
+  margin: auto;
+}
+caption{
+  font-size: 30px;
+  color:antiquewhite
+}
+thead th, tfoot th {
+  font-style:italic;
+  font-size: 20px;
+  background-color: rgb(0, 255, 157);
+    
+  }
+th, td {    
+  border-radius: 5px;
+  padding: 20px;
+  letter-spacing: 2px;
+  background-color: rgba(0, 255, 157, 0.67);    
+}    
+
+
+.PROG {
+  background-color: rgba(96, 25, 177, 0.8);
+  color:antiquewhite
+}
+.EEDD {
+  background-color: rgba(30, 255, 218, 0.8);
+}
+.LM {
+  background-color: rgb(30, 173, 255, 0.8);
+}
+.BBDD {
+  background-color: rgba(214, 76, 34, 0.8);
+}
+.SI {
+  background-color: rgba(163, 221, 2, 0.8);
+}
+.FOL {
+  background-color: rgb(255, 0, 0, 0.8);
+}
+.ING{
+  background-color: rgb(0, 255, 55, 0.8);
+}
+.REC{
+  background-color:  rgba(224, 183, 49, 0.8);
+  font-style: oblique;
+  font-size: 20px;
+}
+
+
+
